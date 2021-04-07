@@ -12,6 +12,3 @@ player2
 playerCount 
 
 
-Output Link
-
-https://agsuvidha.github.io/C39_FruitCollect1_LMS/
